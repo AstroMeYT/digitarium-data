@@ -1,1 +1,1 @@
-["Sun"]
+["Sun","Sirius A","Sirius B"]
