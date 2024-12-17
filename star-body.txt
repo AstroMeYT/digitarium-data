@@ -1,1 +1,1 @@
-["Sun","Sirius A","Sirius B"]
+["Sun","Sirius A","Sirius B","Betelegeuse","Rigel","Procyon","Vega","Canopus"]
