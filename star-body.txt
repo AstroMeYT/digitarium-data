@@ -1,1 +1,1 @@
-["Sun","Sirius A","Sirius B","Betelegeuse","Rigel","Procyon","Vega","Canopus"]
+["Sun","Sirius A & B","Betelegeuse","Rigel","Procyon","Vega","Canopus","Alpha Centauri A & B","Proxima Centauri A & B","Arcturus","Canis Majoris","Capella"]
